@@ -4,5 +4,21 @@
     box-sizing: border-box;
 }
 h1{
-    background-color: blue;
+    background-color:black;
+    color: white;
+    text-align: end;
 }
+#image{
+    height: 0.5px;
+    width: 0.5px;
+    /* display: block; */
+}
+ .welcome{
+    font-size: medium;
+    height: 0%;
+    width: 0%;
+ }
+ /* #image{
+    height: fit-content;
+ } */
+  
